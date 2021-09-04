@@ -1,0 +1,11 @@
+Command to compile in Linux's terminal:
+javac -Xlint *.java
+
+
+Command to execute in Linux's terminal:
+java -ea NameOfClassWithStaticMainMethod
+
+Names of Classes With Static Main Method:
+ArithmeticTest
+HugeIntegerTest
+TestByBigInteger
